@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  /*background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,0.8326681014202556) 100%);*/
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
